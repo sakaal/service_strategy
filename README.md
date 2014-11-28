@@ -3,6 +3,9 @@
 Decide on a strategy to serve the people,
 which services to offer and what capabilities to develop
 
+* See the service design in the
+  [service platform wiki](https://github.com/sakaal/service_platform_ansible/wiki).
+
 ## Mission statement
 
 We develop a digital social system for the people.
